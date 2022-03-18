@@ -1,2 +1,2 @@
-# tic-tac-toe
+# XO
 a c++ console XO game
